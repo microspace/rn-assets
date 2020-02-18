@@ -1,51 +1,51 @@
 {
-  "arrowcross": {
-    "height": 92,
+  "abandoned": {
+    "height": 32,
     "pixelRatio": 1,
-    "width": 100,
+    "width": 32,
     "x": 0,
     "y": 0
   },
-  "arrowdown": {
-    "height": 92,
+  "absorbtion": {
+    "height": 32,
     "pixelRatio": 1,
-    "width": 100,
-    "x": 100,
+    "width": 32,
+    "x": 32,
     "y": 0
   },
-  "arrowup": {
-    "height": 92,
+  "drilling_production": {
+    "height": 32,
     "pixelRatio": 1,
-    "width": 100,
+    "width": 32,
     "x": 0,
-    "y": 92
+    "y": 32
   },
-  "cross": {
-    "height": 92,
+  "injection": {
+    "height": 32,
     "pixelRatio": 1,
-    "width": 100,
-    "x": 100,
-    "y": 92
+    "width": 32,
+    "x": 32,
+    "y": 32
   },
-  "empty": {
-    "height": 92,
+  "multizone": {
+    "height": 32,
     "pixelRatio": 1,
-    "width": 100,
-    "x": 0,
-    "y": 184
+    "width": 32,
+    "x": 64,
+    "y": 0
   },
-  "full": {
-    "height": 92,
+  "production": {
+    "height": 32,
     "pixelRatio": 1,
-    "width": 100,
-    "x": 100,
-    "y": 184
+    "width": 32,
+    "x": 96,
+    "y": 0
   },
-  "semifull": {
-    "height": 92,
+  "water": {
+    "height": 32,
     "pixelRatio": 1,
-    "width": 100,
-    "x": 0,
-    "y": 276
+    "width": 32,
+    "x": 64,
+    "y": 32
   }
 }
