@@ -1,0 +1,51 @@
+{
+  "arrowcross": {
+    "height": 92,
+    "pixelRatio": 1,
+    "width": 100,
+    "x": 0,
+    "y": 0
+  },
+  "arrowdown": {
+    "height": 92,
+    "pixelRatio": 1,
+    "width": 100,
+    "x": 100,
+    "y": 0
+  },
+  "arrowup": {
+    "height": 92,
+    "pixelRatio": 1,
+    "width": 100,
+    "x": 0,
+    "y": 92
+  },
+  "cross": {
+    "height": 92,
+    "pixelRatio": 1,
+    "width": 100,
+    "x": 100,
+    "y": 92
+  },
+  "empty": {
+    "height": 92,
+    "pixelRatio": 1,
+    "width": 100,
+    "x": 0,
+    "y": 184
+  },
+  "full": {
+    "height": 92,
+    "pixelRatio": 1,
+    "width": 100,
+    "x": 100,
+    "y": 184
+  },
+  "semifull": {
+    "height": 92,
+    "pixelRatio": 1,
+    "width": 100,
+    "x": 0,
+    "y": 276
+  }
+}
